@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Thabo Mkhonkosi",
+	"author": {
+		"name": "Thabo Mkhonkosi"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
